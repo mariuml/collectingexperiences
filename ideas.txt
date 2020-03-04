@@ -1,0 +1,17 @@
+Page ideas
+
+- Each link takes you to a new page - one on 'languages', one on 'chidline'
+- Collecting expereinces collects all the top experiences in that category with a high level summary, the benefits of the experience,
+time commitment, cost, location - all key info easily accessible on one page
+- Only around 5 experiences per page - shortlisting the 'top recent opportunities'
+- Building on previous ideas: option of manually naviagting through the website, or a self selection 'quiz' that presents
+you with a new opportunity based upon your preferences.
+
+Business case/selling the idea to users
+
+- People that feel they are stuck in a rut/have gone through a break up or a hard time in their life and want to invest their
+time and energy in something new 
+- People interested in self-development
+- People looking for a new hobby
+- Homepage can summarise these target users in a persuasive and succinct way
+- Interactive tool does the hard work for you.
